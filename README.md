@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <li><strong>Students' Students Spending Analysis:</strong> Explored spending patterns and relationships with linear regression, achieving meaningful insights.</li>
         <li><strong>Temperature Analysis in India:</strong> Visualized climate trends with Plotly and predicted missing temperature data.</li>
     </ul>
-    <p>🔧 Skilled in: Python, SQL, Data Cleaning, Predictive Analysis, Data Visualization.</p>
+    <p>🔧 Skilled in: Python, SQL, Data Cleaning, Predictive Analysis, Data Visualization and Prompt Engineering.</p>
     <p>📈 Eager to contribute my analytical skills to solve real-world problems and drive data-informed decisions.</p>
     <p>🌱 Always learning and exploring new technologies.</p>
 </body>
